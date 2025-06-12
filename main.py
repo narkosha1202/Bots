@@ -18,7 +18,7 @@ TOKEN = os.getenv("7907710172:AAE4-3uLtI6YEc7l1k-42qU-l-OPaaLBl9s")
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token=TOKEN)
+bot = Bot(7907710172:AAE4-3uLtI6YEc7l1k-42qU-l-OPaaLBl9s)
 dp = Dispatcher()
 
 @dp.message(Command("start"))
