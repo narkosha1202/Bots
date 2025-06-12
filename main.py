@@ -10,6 +10,8 @@ user_game_state = {}
 
 wikipedia.set_lang("uz")
 
+bot = Bot ("7907710172:AAE4-3uLtI6YEc7l1k-42qU-l-OPaaLBl9s")
+
 from dotenv import load_dotenv
 import os
 
